@@ -1,0 +1,5 @@
+Mã khách hàng : A26296 
+Mã khách hàng : Jack 
+Mã khách hàng : 2020-06-20 
+Mã khách hàng : 1200.0 
+Mã khách hàng : 230.0 
